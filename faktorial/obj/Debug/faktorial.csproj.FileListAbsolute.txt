@@ -1,0 +1,6 @@
+Z:\Új mappa\cz_viskod\Recursion_tests\faktorial\bin\Debug\faktorial.exe.config
+Z:\Új mappa\cz_viskod\Recursion_tests\faktorial\bin\Debug\faktorial.exe
+Z:\Új mappa\cz_viskod\Recursion_tests\faktorial\bin\Debug\faktorial.pdb
+Z:\Új mappa\cz_viskod\Recursion_tests\faktorial\obj\Debug\faktorial.csproj.CoreCompileInputs.cache
+Z:\Új mappa\cz_viskod\Recursion_tests\faktorial\obj\Debug\faktorial.exe
+Z:\Új mappa\cz_viskod\Recursion_tests\faktorial\obj\Debug\faktorial.pdb

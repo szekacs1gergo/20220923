@@ -1,0 +1,7 @@
+Z:\Új mappa\cz_viskod\Recursion_tests\Recursion_tests\bin\Debug\Recursion_tests.exe.config
+Z:\Új mappa\cz_viskod\Recursion_tests\Recursion_tests\bin\Debug\Recursion_tests.exe
+Z:\Új mappa\cz_viskod\Recursion_tests\Recursion_tests\bin\Debug\Recursion_tests.pdb
+Z:\Új mappa\cz_viskod\Recursion_tests\Recursion_tests\obj\Debug\Recursion_tests.csprojAssemblyReference.cache
+Z:\Új mappa\cz_viskod\Recursion_tests\Recursion_tests\obj\Debug\Recursion_tests.csproj.CoreCompileInputs.cache
+Z:\Új mappa\cz_viskod\Recursion_tests\Recursion_tests\obj\Debug\Recursion_tests.exe
+Z:\Új mappa\cz_viskod\Recursion_tests\Recursion_tests\obj\Debug\Recursion_tests.pdb

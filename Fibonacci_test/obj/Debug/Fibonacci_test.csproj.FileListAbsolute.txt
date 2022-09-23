@@ -1,0 +1,7 @@
+Z:\Új mappa\cz_viskod\Recursion_tests\Fibonacci_test\bin\Debug\Fibonacci_test.exe.config
+Z:\Új mappa\cz_viskod\Recursion_tests\Fibonacci_test\bin\Debug\Fibonacci_test.exe
+Z:\Új mappa\cz_viskod\Recursion_tests\Fibonacci_test\bin\Debug\Fibonacci_test.pdb
+Z:\Új mappa\cz_viskod\Recursion_tests\Fibonacci_test\obj\Debug\Fibonacci_test.csprojAssemblyReference.cache
+Z:\Új mappa\cz_viskod\Recursion_tests\Fibonacci_test\obj\Debug\Fibonacci_test.csproj.CoreCompileInputs.cache
+Z:\Új mappa\cz_viskod\Recursion_tests\Fibonacci_test\obj\Debug\Fibonacci_test.exe
+Z:\Új mappa\cz_viskod\Recursion_tests\Fibonacci_test\obj\Debug\Fibonacci_test.pdb

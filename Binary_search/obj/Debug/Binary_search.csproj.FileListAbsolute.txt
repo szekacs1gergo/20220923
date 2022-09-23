@@ -1,0 +1,6 @@
+Z:\Új mappa\cz_viskod\Recursion_tests\Binary_search\bin\Debug\Binary_search.exe.config
+Z:\Új mappa\cz_viskod\Recursion_tests\Binary_search\bin\Debug\Binary_search.exe
+Z:\Új mappa\cz_viskod\Recursion_tests\Binary_search\bin\Debug\Binary_search.pdb
+Z:\Új mappa\cz_viskod\Recursion_tests\Binary_search\obj\Debug\Binary_search.csproj.CoreCompileInputs.cache
+Z:\Új mappa\cz_viskod\Recursion_tests\Binary_search\obj\Debug\Binary_search.exe
+Z:\Új mappa\cz_viskod\Recursion_tests\Binary_search\obj\Debug\Binary_search.pdb
